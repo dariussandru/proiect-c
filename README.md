@@ -22,7 +22,7 @@ Funcționalități de bază (cerințe funcționale):
 
 
 Cerințe implementare structuri de date:
-În rezolvarea problemelor de mai sus se vor implementa, douastructuri de date:
+În rezolvarea problemelor de mai sus se vor implementa, doua structuri de date:
 1)	TAD Mulțime cu elemente generice (Template <class T> ) cu reprezentare înlănțuită
 2)	TAD Multi Dictionar cu elemente generice (Template <class T> ) cu reprezentare înlănțuită
 
