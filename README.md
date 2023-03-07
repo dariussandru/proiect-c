@@ -22,13 +22,8 @@ Funcționalități de bază (cerințe funcționale):
 
 
 Cerințe implementare structuri de date:
-În rezolvarea problemelor de mai sus se vor implementa, doua dintre următoarele structuri de date, cele care vă vor fi asignate la orele de seminar:
-1)	TAD Lista cu elemente generice (Template <class T> ) cu reprezentare pe array
-2)	TAD Lista cu elemente generice (Template <class T> ) cu reprezentare înlănțuită
-3)	TAD Mulțime cu elemente generice (Template <class T> ) cu reprezentare înlănțuită
-4)	TAD Dictionar cu elemente generice (Template <class T> ) cu reprezentare înlănțuită
-5)	TAD Multi Dictionar cu elemente generice (Template <class T> ) cu reprezentare înlănțuită
-6)	TAD Mulțime Ordonată cu elemente generice (Template <class T> ) cu reprezentare folosind un  arbore binar de căutare
-7)	TAD Mulțime Ordonată cu elemente generice (Template <class T> ) cu reprezentare pe tabelă de dispersie
-8)	TAD Graf cu reprezentare pe matrice (pt retea) – FACULTATIV – 5 puncte bonus.
+În rezolvarea problemelor de mai sus se vor implementa, douastructuri de date:
+1)	TAD Mulțime cu elemente generice (Template <class T> ) cu reprezentare înlănțuită
+2)	TAD Multi Dictionar cu elemente generice (Template <class T> ) cu reprezentare înlănțuită
+
 Observație: Se pot defini si alte structuri de date necesare rezolvării problemei.
